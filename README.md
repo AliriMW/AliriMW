@@ -6,4 +6,6 @@
 
 <h2>Connect with me:</h2>
 
-- [LinkedIn](www.linkedin.com/in/ali-alturaifi-853649358)
+[<img width="50" height="50" alt="ALi's LinkedIn link" src="https://github.com/user-attachments/assets/180602dd-33f8-4a83-b96a-4bf2679b9452" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ali-alturaifi-853649358
