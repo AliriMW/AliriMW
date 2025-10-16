@@ -1,8 +1,9 @@
 <h1>Hi, I'm Ali Alturaifi!</h1>
 
-<h2>Mobile Application Project:</h2>
+<h2>Mobile Application Projects:</h2>
 
-- [BadgerChat Mobile — React Native UI Project](https://github.com/AliriMW/BadgerChat_Mobile)
+- [BadgerChat Mobile — React Native UI Project](https://github.com/AliriMW/BadgerChat-Mobile)
+- [BadgerNews Mobile — React Native UI Project](https://github.com/AliriMW/Badger-News)
 
 <h2>Connect with me:</h2>
 
